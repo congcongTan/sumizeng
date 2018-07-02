@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thumbnails>
+	<thumbnail filename="1.jpg" label="flash1"
+		url="painting/1.swf" 
+		description="flash" />
+	<thumbnail filename="2.jpg" label="flash2"
+		url="painting/2.swf" 
+		description="flashزflashزflashزflashز" />
+	<thumbnail filename="3.jpg" 
+		url="painting/3.swf" 
+		description="flash" />
+	<thumbnail filename="4.jpg" label="flash3" 
+		url="painting/4.swf" 
+		description="flash" />
+	<thumbnail filename="5.jpg" label="flash4" 
+		url="painting/5.swf" 
+		description="flash" />
+	<thumbnail filename="6.jpg" label="flash5" 
+		url="painting/6.swf" 
+		description="flash" />
+	<thumbnail filename="7.jpg" label="flash6" 
+		url="painting/7.swf" 
+		description="flash" />
+	<thumbnail filename="8.jpg" label="flash7" 
+		url="painting/8.swf" 
+		description="flash" />
+	<thumbnail filename="9.jpg" label="flash8" 
+		url="painting/9.swf" 
+		description="flash" />
+	<thumbnail filename="10.jpg" label="flash9" 
+		url="painting/10.swf" 
+		description="flash" />
+	<thumbnail filename="11.jpg" label="flash10" 
+		url="painting/11.swf" 
+		description="flash" />
+	<thumbnail filename="12.jpg" label="flash11" 
+		url="painting/12.swf" 
+		description="flash" />
+		
+	<thumbnail filename="13.jpg" label="flash12" 
+		url="painting/13.swf" 
+		description="flash" />
+	<thumbnail filename="14.jpg" label="flash13" 
+		url="painting/14.swf" 
+		description="flash" />
+	<thumbnail filename="15.jpg" label="flash14" 
+		url="painting/15.swf" 
+		description="flash" />
+	<thumbnail filename="16.jpg" label="flash15" 
+		url="painting/16.swf" 
+		description="flash" />
+	<thumbnail filename="17.jpg" label="flash" 
+		url="painting/17.swf" 
+		description="flash" />
+	<thumbnail filename="18.jpg" label="flash17" 
+		url="painting/18.swf" 
+		description="flash" />
+	<thumbnail filename="19.jpg" label="flash18" 
+		url="painting/19.swf" 
+		description="flash" />
+	<thumbnail filename="20.jpg" label="flash19" 
+		url="painting/20.swf" 
+		description="flash" />
+	<thumbnail filename="21.jpg" label="flash20" 
+		url="painting/21.swf" 
+		description="flash" />
+	<thumbnail filename="22.jpg" label="flash21" 
+		url="painting/22.swf" 
+		description="flash" />
+	<thumbnail filename="23.jpg" label="flash22" 
+		url="painting/23.swf" 
+		description="flash" />
+	<thumbnail filename="24.jpg" label="flash23" 
+		url="painting/24.swf" 
+		description="flash" />
+</thumbnails>

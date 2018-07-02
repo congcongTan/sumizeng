@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thumbnails>
+	<thumbnail filename="1.jpg" label="flash1"
+		url="lanscape/1.swf" 
+		description="flash" />
+	<thumbnail filename="2.jpg" label="flash2"
+		url="lanscape/2.swf" 
+		description="flash" />
+	<thumbnail filename="3.jpg" 
+		url="lanscape/3.swf" 
+		description="flash" />
+	<thumbnail filename="4.jpg" label="flash3" 
+		url="lanscape/4.swf" 
+		description="flash" />
+	<thumbnail filename="5.jpg" label="flash4" 
+		url="lanscape/5.swf" 
+		description="flash" />
+	<thumbnail filename="6.jpg" label="flash5" 
+		url="lanscape/6.swf" 
+		description="flash" />
+	<thumbnail filename="7.jpg" label="flash6" 
+		url="lanscape/7.swf" 
+		description="flash" />
+	<thumbnail filename="8.jpg" label="flash7" 
+		url="lanscape/8.swf" 
+		description="flash" />
+	<thumbnail filename="9.jpg" label="flash8" 
+		url="lanscape/9.swf" 
+		description="flash" />
+	<thumbnail filename="10.jpg" label="flash9" 
+		url="lanscape/10.swf" 
+		description="flash" />
+	<thumbnail filename="11.jpg" label="flash10" 
+		url="lanscape/11.swf" 
+		description="flash" />
+	<thumbnail filename="12.jpg" label="flash11" 
+		url="lanscape/12.swf" 
+		description="flash" />
+		
+	<thumbnail filename="13.jpg" label="flash12" 
+		url="lanscape/13.swf" 
+		description="flash" />
+	<thumbnail filename="14.jpg" label="flash13" 
+		url="lanscape/14.swf" 
+		description="flash" />
+	<thumbnail filename="15.jpg" label="flash14" 
+		url="lanscape/15.swf" 
+		description="flash" />
+	<thumbnail filename="16.jpg" label="flash15" 
+		url="lanscape/16.swf" 
+		description="flash" />
+	<thumbnail filename="17.jpg" label="flash" 
+		url="lanscape/17.swf" 
+		description="flash" />
+	<thumbnail filename="18.jpg" label="flash17" 
+		url="lanscape/18.swf" 
+		description="flash" />
+	<thumbnail filename="19.jpg" label="flash18" 
+		url="lanscape/19.swf" 
+		description="flash" />
+	<thumbnail filename="20.jpg" label="flash19" 
+		url="lanscape/20.swf" 
+		description="flash" />
+	<thumbnail filename="21.jpg" label="flash20" 
+		url="lanscape/21.swf" 
+		description="flash" />
+	<thumbnail filename="22.jpg" label="flash21" 
+		url="lanscape/22.swf" 
+		description="flash" />
+	<thumbnail filename="23.jpg" label="flash22" 
+		url="lanscape/23.swf" 
+		description="flash" />
+	<thumbnail filename="24.jpg" label="flash23" 
+		url="lanscape/24.swf" 
+		description="flash" />
+</thumbnails>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<thumbnails>
+	<thumbnail filename="1.jpg" label="flash1"
+		url="structure/1.swf" 
+		description="flash" />
+	<thumbnail filename="2.jpg" label="flash2"
+		url="structure/2.swf" 
+		description="flashزflashزflashزflashز" />
+	<thumbnail filename="3.jpg" 
+		url="structure/3.swf" 
+		description="flash" />
+	<thumbnail filename="4.jpg" label="flash3" 
+		url="structure/4.swf" 
+		description="flash" />
+	<thumbnail filename="5.jpg" label="flash4" 
+		url="structure/5.swf" 
+		description="flash" />
+	<thumbnail filename="6.jpg" label="flash5" 
+		url="structure/6.swf" 
+		description="flash" />
+	<thumbnail filename="7.jpg" label="flash6" 
+		url="structure/7.swf" 
+		description="flash" />
+	<thumbnail filename="8.jpg" label="flash7" 
+		url="structure/8.swf" 
+		description="flash" />
+	<thumbnail filename="9.jpg" label="flash8" 
+		url="structure/9.swf" 
+		description="flash" />
+	<thumbnail filename="10.jpg" label="flash9" 
+		url="structure/10.swf" 
+		description="flash" />
+	<thumbnail filename="11.jpg" label="flash10" 
+		url="structure/11.swf" 
+		description="flash" />
+	<thumbnail filename="12.jpg" label="flash11" 
+		url="structure/12.swf" 
+		description="flash" />
+		
+	<thumbnail filename="13.jpg" label="flash12" 
+		url="structure/13.swf" 
+		description="flash" />
+	<thumbnail filename="14.jpg" label="flash13" 
+		url="structure/14.swf" 
+		description="flash" />
+	<thumbnail filename="15.jpg" label="flash14" 
+		url="structure/15.swf" 
+		description="flash" />
+	<thumbnail filename="16.jpg" label="flash15" 
+		url="structure/16.swf" 
+		description="flash" />
+	<thumbnail filename="17.jpg" label="flash" 
+		url="structure/17.swf" 
+		description="flash" />
+	<thumbnail filename="18.jpg" label="flash17" 
+		url="structure/18.swf" 
+		description="flash" />
+	<thumbnail filename="19.jpg" label="flash18" 
+		url="structure/19.swf" 
+		description="flash" />
+	<thumbnail filename="20.jpg" label="flash19" 
+		url="structure/20.swf" 
+		description="flash" />
+	<thumbnail filename="21.jpg" label="flash20" 
+		url="structure/21.swf" 
+		description="flash" />
+	<thumbnail filename="22.jpg" label="flash21" 
+		url="structure/22.swf" 
+		description="flash" />
+	<thumbnail filename="23.jpg" label="flash22" 
+		url="structure/23.swf" 
+		description="flash" />
+	<thumbnail filename="24.jpg" label="flash23" 
+		url="structure/24.swf" 
+		description="flash" />
+</thumbnails>
